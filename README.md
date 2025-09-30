@@ -25,7 +25,7 @@ flask-app2/ ├── app.py ├── uplddocs.py ├── create_index.py ├
 
 This badge wasn’t handed out—it was earned. Through debugging, refactoring, and pushing through Git errors and credential chaos, I built something that reflects both technical skill and personal growth.
 
-
+![Microsoft AI Genius Badge](21409_AI_20Genius_20Challenge_20LinkedIn_20Badge_v1_Linkedin_20Badge_20circle.png)
 
 ##  Notes from the Challenge
 
